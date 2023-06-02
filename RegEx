@@ -1,5 +1,7 @@
 A charset is defined by enclosing in [ square brackets ] the character(s), or range of characters that you want to match.  Then, it finds every occurrence of the pattern you have defined in the file/text you are searching.
 
+
+
 [abc] will match a, b, and c (every occurrence of each letter)
 
 [abc]zz will match azz, bzz, and czz.
